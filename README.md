@@ -38,6 +38,7 @@ I combine visual storytelling from my design background with full-stack developm
 
 ## 🗂 Lyphotrack mobile app 
 **Role:** Lead designer & interaction designer
+
 **Problem:** Help to create to create awarnes lyphyphoma cancer 
 - **Health UI Kit** — design tokens & components for health dashboards  
 - **Clinic Appointment App** — full-stack demo (Node.js + React) with basic scheduling  
