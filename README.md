@@ -14,8 +14,7 @@ I combine visual storytelling from my design background with full-stack developm
 ---
 
 ## 🎯 Vision
-> *My aim is to [insert your vision — e.g., "create accessible digital health tools that improve outcomes for underserved communities"].*
-
+> *My aim is to become a human-centered designer who uses design to improve accessibility and create meaningful digital experiences that empower communities.
 ---
 
 ## 🧰 Skills
@@ -37,7 +36,9 @@ I combine visual storytelling from my design background with full-stack developm
 
 ---
 
-## 🗂 Other projects
+## 🗂 Lyphotrack mobile app 
+**Role:** Lead designer & interaction designer
+**Problem:** Help to create to create awarnes lyphyphoma cancer 
 - **Health UI Kit** — design tokens & components for health dashboards  
 - **Clinic Appointment App** — full-stack demo (Node.js + React) with basic scheduling  
 - **Multimedia Portfolio** — editorial design and brand projects from 2021–2023
@@ -45,16 +46,16 @@ I combine visual storytelling from my design background with full-stack developm
 ---
 
 ## 📫 Get in touch
-- Portfolio: https://your-portfolio.example  
-- Email: your.email@example.com  
-- LinkedIn: https://linkedin.com/in/yourprofile
+- Portfolio: [https://your-portfolio.example ](https://docs.google.com/presentation/d/1QROoOxKq1ySttoFedb43GX4p2aHHqnSXHT2YoNz58s8/edit?usp=sharing) 
+- Email: churchillotoo@gmail.com  
+- LinkedIn: https://linkedin.com/in/churchillotoo19
 
 ---
 
 ## 📈 GitHub stats & badges
 (Place images or shields here. Example:)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Churchilotoo&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=Churchill1999&show_icons=true)
 
 ---
 
