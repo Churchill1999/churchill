@@ -55,7 +55,7 @@ I combine visual storytelling from my design background with full-stack developm
 
 ## 📈 GitHub stats & badges
 (Place images or shields here. Example:)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Churchilotoo1999&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Churchill1999&layout=compact)
 ![Stats](https://github-readme-stats.vercel.app/api?username=Churchill1999&show_icons=true)
 
 ---
